@@ -1,2 +1,2 @@
-# archinstallquickly
-archinstallquickly
+# archinstaller
+clone this script and run 
